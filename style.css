@@ -1,0 +1,10 @@
+body {
+   color: red;
+    background:blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    background-color: green;
+    border: 1px solid white;
+}
